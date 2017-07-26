@@ -1,27 +1,27 @@
-2017-04-25 10:48:34,265 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
-2017-04-25 10:48:34,281 INFO o.a.j.JMeter: Loading user properties from: user.properties
-2017-04-25 10:48:34,282 INFO o.a.j.JMeter: Loading system properties from: system.properties
-2017-04-25 10:48:34,288 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
-2017-04-25 10:48:34,288 INFO o.a.j.JMeter: Version 3.2 r1790748
-2017-04-25 10:48:34,289 INFO o.a.j.JMeter: java.version=1.8.0_05
-2017-04-25 10:48:34,289 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
-2017-04-25 10:48:34,289 INFO o.a.j.JMeter: os.name=Windows 7
-2017-04-25 10:48:34,289 INFO o.a.j.JMeter: os.arch=amd64
-2017-04-25 10:48:34,289 INFO o.a.j.JMeter: os.version=6.1
-2017-04-25 10:48:34,289 INFO o.a.j.JMeter: file.encoding=Cp1252
-2017-04-25 10:48:34,289 INFO o.a.j.JMeter: Max memory     =2789212160
-2017-04-25 10:48:34,289 INFO o.a.j.JMeter: Available Processors =4
-2017-04-25 10:48:34,293 INFO o.a.j.JMeter: Default Locale=English (United States)
-2017-04-25 10:48:34,294 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
-2017-04-25 10:48:34,294 INFO o.a.j.JMeter: JMeterHome=C:\blah\JMeter\apache-jmeter-3.2
-2017-04-25 10:48:34,294 INFO o.a.j.JMeter: user.dir  =C:\blah\JMeter\apache-jmeter-3.2\bin
-2017-04-25 10:48:34,294 INFO o.a.j.JMeter: PWD       =C:\blah\JMeter\apache-jmeter-3.2\bin
-2017-04-25 10:48:34,295 INFO o.a.j.JMeter: IP: 10.218.112.218 Name: LDENPBZYLED FullName: LDENPBZYLED.corp.transunion.com
-2017-04-25 10:48:34,446 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.nimbus.NimbusLookAndFeel [Nimbus]
-2017-04-25 10:48:34,497 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2017-04-25 10:48:35,405 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
-2017-04-25 10:48:35,405 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
-2017-04-25 10:48:36,929 WARN o.j.r.PluginManagerMenuItem: Failed to load plugin updates info
+2017-07-26 14:47:02,321 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2017-07-26 14:47:02,341 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2017-07-26 14:47:02,342 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2017-07-26 14:47:02,352 INFO o.a.j.JMeter: Copyright (c) 1998-2017 The Apache Software Foundation
+2017-07-26 14:47:02,352 INFO o.a.j.JMeter: Version 3.2 r1790748
+2017-07-26 14:47:02,353 INFO o.a.j.JMeter: java.version=1.8.0_05
+2017-07-26 14:47:02,353 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2017-07-26 14:47:02,353 INFO o.a.j.JMeter: os.name=Windows 7
+2017-07-26 14:47:02,353 INFO o.a.j.JMeter: os.arch=amd64
+2017-07-26 14:47:02,353 INFO o.a.j.JMeter: os.version=6.1
+2017-07-26 14:47:02,353 INFO o.a.j.JMeter: file.encoding=Cp1252
+2017-07-26 14:47:02,353 INFO o.a.j.JMeter: Max memory     =2789212160
+2017-07-26 14:47:02,353 INFO o.a.j.JMeter: Available Processors =4
+2017-07-26 14:47:02,360 INFO o.a.j.JMeter: Default Locale=English (United States)
+2017-07-26 14:47:02,360 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2017-07-26 14:47:02,360 INFO o.a.j.JMeter: JMeterHome=C:\blah\JMeter\apache-jmeter-3.2
+2017-07-26 14:47:02,360 INFO o.a.j.JMeter: user.dir  =C:\blah\JMeter\apache-jmeter-3.2\bin
+2017-07-26 14:47:02,361 INFO o.a.j.JMeter: PWD       =C:\blah\JMeter\apache-jmeter-3.2\bin
+2017-07-26 14:47:02,362 INFO o.a.j.JMeter: IP: 10.218.112.218 Name: LDENPBZYLED FullName: LDENPBZYLED.corp.transunion.com
+2017-07-26 14:47:02,661 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: javax.swing.plaf.nimbus.NimbusLookAndFeel [Nimbus]
+2017-07-26 14:47:02,743 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2017-07-26 14:47:03,828 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2017-07-26 14:47:03,828 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2017-07-26 14:47:05,862 WARN o.j.r.PluginManagerMenuItem: Failed to load plugin updates info
 javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
 	at sun.security.ssl.Alerts.getSSLException(Unknown Source) ~[?:1.8.0_05]
 	at sun.security.ssl.SSLSocketImpl.fatal(Unknown Source) ~[?:1.8.0_05]
@@ -84,8 +84,8 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at sun.security.ssl.X509TrustManagerImpl.checkTrusted(Unknown Source) ~[?:1.8.0_05]
 	at sun.security.ssl.X509TrustManagerImpl.checkServerTrusted(Unknown Source) ~[?:1.8.0_05]
 	... 38 more
-2017-04-25 10:48:37,232 INFO k.a.j.JMeterPluginsUtils: JMeter-Plugins.org v.1.4.0
-2017-04-25 10:48:37,516 WARN o.a.j.g.u.MenuFactory: Configuration error, probably corrupt or missing third party library(jar) ? Could not create class: kg.apc.jmeter.reporters.LoadosophiaUploaderGui. java.lang.NoClassDefFoundError: org/apache/commons/httpclient/methods/multipart/PartSource
+2017-07-26 14:47:06,385 INFO k.a.j.JMeterPluginsUtils: JMeter-Plugins.org v.1.4.0
+2017-07-26 14:47:06,609 WARN o.a.j.g.u.MenuFactory: Configuration error, probably corrupt or missing third party library(jar) ? Could not create class: kg.apc.jmeter.reporters.LoadosophiaUploaderGui. java.lang.NoClassDefFoundError: org/apache/commons/httpclient/methods/multipart/PartSource
 java.lang.NoClassDefFoundError: org/apache/commons/httpclient/methods/multipart/PartSource
 	at kg.apc.jmeter.reporters.LoadosophiaUploaderGui.init(LoadosophiaUploaderGui.java:114) ~[JMeterPlugins-Standard.jar:?]
 	at kg.apc.jmeter.reporters.LoadosophiaUploaderGui.<init>(LoadosophiaUploaderGui.java:28) ~[JMeterPlugins-Standard.jar:?]
@@ -96,7 +96,7 @@ java.lang.NoClassDefFoundError: org/apache/commons/httpclient/methods/multipart/
 	at java.lang.Class.newInstance(Unknown Source) ~[?:1.8.0_05]
 	at org.apache.jmeter.gui.util.MenuFactory.initializeMenus(MenuFactory.java:505) [ApacheJMeter_core.jar:3.2 r1790748]
 	at org.apache.jmeter.gui.util.MenuFactory.<clinit>(MenuFactory.java:169) [ApacheJMeter_core.jar:3.2 r1790748]
-	at org.apache.jmeter.control.gui.WorkBenchGui.createPopupMenu(WorkBenchGui.java:119) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.control.gui.TestPlanGui.createPopupMenu(TestPlanGui.java:93) [ApacheJMeter_core.jar:3.2 r1790748]
 	at org.apache.jmeter.gui.tree.JMeterTreeNode.createPopupMenu(JMeterTreeNode.java:156) [ApacheJMeter_core.jar:3.2 r1790748]
 	at org.apache.jmeter.gui.action.EditCommand.doAction(EditCommand.java:46) [ApacheJMeter_core.jar:3.2 r1790748]
 	at org.apache.jmeter.gui.action.ActionRouter.performAction(ActionRouter.java:74) [ApacheJMeter_core.jar:3.2 r1790748]
@@ -124,67 +124,193 @@ Caused by: java.lang.ClassNotFoundException: org.apache.commons.httpclient.metho
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_05]
 	at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_05]
 	... 29 more
-2017-04-25 10:48:38,094 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
-2017-04-25 10:48:38,480 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
-2017-04-25 10:48:38,522 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
-2017-04-25 10:48:38,561 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2017-04-25 10:48:38,561 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2017-04-25 10:48:38,562 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2017-04-25 10:48:38,562 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2017-04-25 10:48:38,562 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
-2017-04-25 10:48:38,562 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
-2017-04-25 10:48:39,038 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
-2017-04-25 10:48:39,041 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\blah\JMeter\apache-jmeter-3.2\bin\proxyserver.jks
-2017-04-25 10:48:39,207 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
-2017-04-25 10:48:39,252 INFO o.a.j.s.FileServer: Default base='C:\blah\JMeter\apache-jmeter-3.2\bin'
-2017-04-25 10:48:39,361 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
-2017-04-25 10:48:39,361 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
-2017-04-25 10:48:39,589 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
-2017-04-25 10:48:39,618 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
-2017-04-25 10:48:40,026 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
-2017-04-25 10:48:40,026 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
-2017-04-25 10:48:40,026 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
-2017-04-25 10:48:40,026 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
-2017-04-25 11:03:57,661 INFO o.a.j.g.a.Load: Loading file: C:\blah\JMeter\apache-jmeter-3.2\bin\SpotifyAPITest.jmx
-2017-04-25 11:03:57,661 INFO o.a.j.s.FileServer: Set new base='C:\blah\JMeter\apache-jmeter-3.2\bin'
-2017-04-25 11:03:57,756 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
-2017-04-25 11:03:57,766 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
-2017-04-25 11:03:57,768 INFO o.a.j.s.SaveService: Using SaveService properties version 3.2
-2017-04-25 11:03:57,772 INFO o.a.j.s.SaveService: Loading file: C:\blah\JMeter\apache-jmeter-3.2\bin\SpotifyAPITest.jmx
-2017-04-25 11:03:58,238 INFO o.a.j.s.FileServer: Set new base='C:\blah\JMeter\apache-jmeter-3.2\bin'
-2017-04-25 11:05:36,393 INFO o.a.j.e.StandardJMeterEngine: Running the test!
-2017-04-25 11:05:36,393 INFO o.a.j.s.SampleEvent: List of sample_variables: []
-2017-04-25 11:05:36,393 INFO o.a.j.s.SampleEvent: List of sample_variables: []
-2017-04-25 11:05:36,409 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
-2017-04-25 11:05:36,424 INFO o.a.j.e.StandardJMeterEngine: Starting setUp thread groups
-2017-04-25 11:05:36,424 INFO o.a.j.e.StandardJMeterEngine: Starting setUp ThreadGroup: 1 : Setup
-2017-04-25 11:05:36,424 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Setup.
-2017-04-25 11:05:36,424 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
-2017-04-25 11:05:36,424 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
-2017-04-25 11:05:36,425 INFO o.a.j.t.ThreadGroup: Started thread group number 1
-2017-04-25 11:05:36,425 INFO o.a.j.e.StandardJMeterEngine: Waiting for all setup thread groups to exit
-2017-04-25 11:05:36,425 INFO o.a.j.t.JMeterThread: Thread started: Setup 1-1
-2017-04-25 11:05:36,458 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = LDENPBZYLED
-2017-04-25 11:05:36,458 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
-2017-04-25 11:05:36,571 INFO o.a.j.p.h.s.LazySchemeSocketFactory: Setting up HTTPS TrustAll Socket Factory
-2017-04-25 11:05:36,587 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
-2017-04-25 11:05:36,696 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
-2017-04-25 11:05:36,712 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
-2017-04-25 11:05:36,712 INFO o.a.j.u.SSLManager: KeyStore created OK
-2017-04-25 11:05:36,712 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
-2017-04-25 11:05:37,196 INFO o.a.j.t.JMeterThread: Thread is done: Setup 1-1
-2017-04-25 11:05:37,196 INFO o.a.j.t.JMeterThread: Thread finished: Setup 1-1
-2017-04-25 11:05:37,196 INFO o.a.j.e.StandardJMeterEngine: All Setup Threads have ended
-2017-04-25 11:05:37,505 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Spotify REST API Test
-2017-04-25 11:05:37,505 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Spotify REST API Test.
-2017-04-25 11:05:37,505 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
-2017-04-25 11:05:37,506 INFO k.a.j.t.AbstractSimpleThreadGroup: Starting thread group number 1 threads 1
-2017-04-25 11:05:37,508 INFO k.a.j.t.AbstractSimpleThreadGroup: Started thread group number 1
-2017-04-25 11:05:37,508 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
-2017-04-25 11:05:52,506 INFO o.a.j.t.JMeterThread: Thread started: Spotify REST API Test 1-1
-2017-04-25 11:06:07,030 INFO o.a.j.g.a.Start: Stopping test
-2017-04-25 11:06:07,031 INFO o.a.j.t.JMeterThread: Stopping: Spotify REST API Test 1-1
-2017-04-25 11:06:07,031 WARN o.a.j.t.JMeterThread: Interrupting: Spotify REST API Test 1-1 sampler: GET Tracks
-2017-04-25 11:06:07,040 INFO o.a.j.t.JMeterThread: Thread finished: Spotify REST API Test 1-1
-2017-04-25 11:06:07,041 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
-2017-04-25 11:06:07,072 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2017-07-26 14:47:07,041 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.assertions.BSFAssertion
+2017-07-26 14:47:07,585 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.extractor.BSFPostProcessor
+2017-07-26 14:47:07,648 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.modifiers.BSFPreProcessor
+2017-07-26 14:47:07,680 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-07-26 14:47:07,680 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-07-26 14:47:07,680 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-07-26 14:47:07,680 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2017-07-26 14:47:07,681 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2017-07-26 14:47:07,681 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2017-07-26 14:47:08,165 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2017-07-26 14:47:08,166 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\blah\JMeter\apache-jmeter-3.2\bin\proxyserver.jks
+2017-07-26 14:47:08,357 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.java.sampler.BSFSampler
+2017-07-26 14:47:08,582 INFO o.a.j.s.FileServer: Default base='C:\blah\JMeter\apache-jmeter-3.2\bin'
+2017-07-26 14:47:08,692 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.config.MongoSourceElement
+2017-07-26 14:47:08,692 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.protocol.mongodb.sampler.MongoScriptSampler
+2017-07-26 14:47:08,962 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.timers.BSFTimer
+2017-07-26 14:47:08,997 INFO o.a.j.g.u.MenuFactory: Skipping org.apache.jmeter.visualizers.BSFListener
+2017-07-26 14:47:09,169 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2017-07-26 14:47:09,169 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2017-07-26 14:47:09,169 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2017-07-26 14:47:09,169 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2017-07-26 14:47:14,232 INFO o.a.j.g.a.Load: Loading file: C:\blah\JMeter\apache-jmeter-3.2\bin\SpotifyAPITest.jmx
+2017-07-26 14:47:14,232 INFO o.a.j.s.FileServer: Set new base='C:\blah\JMeter\apache-jmeter-3.2\bin'
+2017-07-26 14:47:14,602 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2017-07-26 14:47:14,645 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2017-07-26 14:47:14,647 INFO o.a.j.s.SaveService: Using SaveService properties version 3.2
+2017-07-26 14:47:14,655 INFO o.a.j.s.SaveService: Loading file: C:\blah\JMeter\apache-jmeter-3.2\bin\SpotifyAPITest.jmx
+2017-07-26 14:47:15,177 INFO o.a.j.s.FileServer: Set new base='C:\blah\JMeter\apache-jmeter-3.2\bin'
+2017-07-26 14:47:31,624 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2017-07-26 14:47:31,628 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2017-07-26 14:47:31,629 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2017-07-26 14:47:31,640 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2017-07-26 14:47:31,650 INFO o.a.j.e.StandardJMeterEngine: Starting setUp thread groups
+2017-07-26 14:47:31,650 INFO o.a.j.e.StandardJMeterEngine: Starting setUp ThreadGroup: 1 : Setup
+2017-07-26 14:47:31,650 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Setup.
+2017-07-26 14:47:31,650 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2017-07-26 14:47:31,653 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2017-07-26 14:47:31,670 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2017-07-26 14:47:31,670 INFO o.a.j.e.StandardJMeterEngine: Waiting for all setup thread groups to exit
+2017-07-26 14:47:31,671 INFO o.a.j.t.JMeterThread: Thread started: Setup 1-1
+2017-07-26 14:47:31,689 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = LDENPBZYLED
+2017-07-26 14:47:31,693 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2017-07-26 14:47:31,788 INFO o.a.j.p.h.s.LazySchemeSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2017-07-26 14:47:31,789 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2017-07-26 14:47:31,789 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2017-07-26 14:47:31,799 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2017-07-26 14:47:31,800 INFO o.a.j.u.SSLManager: KeyStore created OK
+2017-07-26 14:47:31,800 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2017-07-26 14:47:32,654 INFO o.a.j.t.JMeterThread: Thread is done: Setup 1-1
+2017-07-26 14:47:32,654 INFO o.a.j.t.JMeterThread: Thread finished: Setup 1-1
+2017-07-26 14:47:32,655 INFO o.a.j.e.StandardJMeterEngine: All Setup Threads have ended
+2017-07-26 14:47:33,000 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Spotify REST API Test
+2017-07-26 14:47:33,000 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Spotify REST API Test.
+2017-07-26 14:47:33,000 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2017-07-26 14:47:33,000 INFO k.a.j.t.AbstractSimpleThreadGroup: Starting thread group number 1 threads 1
+2017-07-26 14:47:33,002 INFO k.a.j.t.AbstractSimpleThreadGroup: Started thread group number 1
+2017-07-26 14:47:33,002 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2017-07-26 14:47:48,001 INFO o.a.j.t.JMeterThread: Thread started: Spotify REST API Test 1-1
+2017-07-26 14:50:58,017 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Spotify REST API Test 1-1
+2017-07-26 14:50:58,017 INFO o.a.j.t.JMeterThread: Thread finished: Spotify REST API Test 1-1
+2017-07-26 14:50:58,018 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2017-07-26 14:50:58,018 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2017-07-26 15:08:55,141 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2017-07-26 15:08:55,142 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2017-07-26 15:08:55,149 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2017-07-26 15:08:55,158 INFO o.a.j.e.StandardJMeterEngine: Starting setUp thread groups
+2017-07-26 15:08:55,158 INFO o.a.j.e.StandardJMeterEngine: Starting setUp ThreadGroup: 1 : Setup
+2017-07-26 15:08:55,159 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Setup.
+2017-07-26 15:08:55,159 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2017-07-26 15:08:55,160 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 perThread=1000.0 delayedStart=false
+2017-07-26 15:08:55,170 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2017-07-26 15:08:55,171 INFO o.a.j.e.StandardJMeterEngine: Waiting for all setup thread groups to exit
+2017-07-26 15:08:55,171 INFO o.a.j.t.JMeterThread: Thread started: Setup 1-1
+2017-07-26 15:08:55,819 INFO o.a.j.t.JMeterThread: Thread is done: Setup 1-1
+2017-07-26 15:08:55,819 INFO o.a.j.t.JMeterThread: Thread finished: Setup 1-1
+2017-07-26 15:08:55,820 INFO o.a.j.e.StandardJMeterEngine: All Setup Threads have ended
+2017-07-26 15:08:55,835 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Spotify REST API Test
+2017-07-26 15:08:55,835 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Spotify REST API Test.
+2017-07-26 15:08:55,835 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2017-07-26 15:08:55,835 INFO k.a.j.t.AbstractSimpleThreadGroup: Starting thread group number 1 threads 1
+2017-07-26 15:08:55,835 INFO k.a.j.t.AbstractSimpleThreadGroup: Started thread group number 1
+2017-07-26 15:08:55,836 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2017-07-26 15:09:10,835 INFO o.a.j.t.JMeterThread: Thread started: Spotify REST API Test 1-1
+2017-07-26 15:12:21,551 INFO o.a.j.t.JMeterThread: Stopping because end time detected by thread: Spotify REST API Test 1-1
+2017-07-26 15:12:21,552 INFO o.a.j.t.JMeterThread: Thread finished: Spotify REST API Test 1-1
+2017-07-26 15:12:21,552 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2017-07-26 15:12:21,553 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2017-07-26 15:12:50,798 WARN o.a.j.g.a.LogLevelCommand: Setting root log level: ERROR
+2017-07-26 15:31:18,677 ERROR o.a.j.t.ListenerNotifier: Detected problem in Listener.
+java.lang.NullPointerException: null
+	at javax.swing.plaf.synth.SynthPanelUI.uninstallDefaults(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.plaf.basic.BasicPanelUI.uninstallUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.plaf.synth.SynthPanelUI.uninstallUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JComponent.uninstallUIAndProperties(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JComponent.setUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JPanel.setUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JPanel.updateUI(Unknown Source) ~[?:1.8.0_05]
+	at kg.apc.jmeter.graphs.GraphPanel.updateGui(GraphPanel.java:116) ~[JMeterPlugins-Extras.jar:?]
+	at kg.apc.jmeter.graphs.AbstractGraphPanelVisualizer.updateGui(AbstractGraphPanelVisualizer.java:229) ~[JMeterPlugins-Extras.jar:?]
+	at kg.apc.jmeter.graphs.AbstractGraphPanelVisualizer.updateGui(AbstractGraphPanelVisualizer.java:218) ~[JMeterPlugins-Extras.jar:?]
+	at kg.apc.jmeter.vizualizers.TransactionsPerSecondGui.add(TransactionsPerSecondGui.java:86) ~[JMeterPlugins-Standard.jar:?]
+	at org.apache.jmeter.reporters.ResultCollector.sendToVisualizer(ResultCollector.java:575) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.reporters.ResultCollector.sampleOccurred(ResultCollector.java:551) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.ListenerNotifier.notifyListeners(ListenerNotifier.java:65) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.notifyListeners(JMeterThread.java:885) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:521) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:425) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:254) [ApacheJMeter_core.jar:3.2 r1790748]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_05]
+2017-07-26 15:33:22,231 ERROR o.a.j.t.ListenerNotifier: Detected problem in Listener.
+java.lang.NullPointerException: null
+	at javax.swing.plaf.synth.SynthPanelUI.uninstallDefaults(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.plaf.basic.BasicPanelUI.uninstallUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.plaf.synth.SynthPanelUI.uninstallUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JComponent.uninstallUIAndProperties(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JComponent.setUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JPanel.setUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JPanel.updateUI(Unknown Source) ~[?:1.8.0_05]
+	at kg.apc.jmeter.graphs.GraphPanel.updateGui(GraphPanel.java:116) ~[JMeterPlugins-Extras.jar:?]
+	at kg.apc.jmeter.graphs.AbstractGraphPanelVisualizer.updateGui(AbstractGraphPanelVisualizer.java:229) ~[JMeterPlugins-Extras.jar:?]
+	at kg.apc.jmeter.graphs.AbstractGraphPanelVisualizer.updateGui(AbstractGraphPanelVisualizer.java:218) ~[JMeterPlugins-Extras.jar:?]
+	at kg.apc.jmeter.vizualizers.ResponseTimesOverTimeGui.add(ResponseTimesOverTimeGui.java:53) ~[JMeterPlugins-Standard.jar:?]
+	at org.apache.jmeter.reporters.ResultCollector.sendToVisualizer(ResultCollector.java:575) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.reporters.ResultCollector.sampleOccurred(ResultCollector.java:551) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.ListenerNotifier.notifyListeners(ListenerNotifier.java:65) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.notifyListeners(JMeterThread.java:885) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:521) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:425) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:254) [ApacheJMeter_core.jar:3.2 r1790748]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_05]
+2017-07-26 15:36:38,898 ERROR o.a.j.t.ListenerNotifier: Detected problem in Listener.
+java.lang.NullPointerException: null
+	at javax.swing.plaf.synth.SynthPanelUI.uninstallDefaults(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.plaf.basic.BasicPanelUI.uninstallUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.plaf.synth.SynthPanelUI.uninstallUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JComponent.uninstallUIAndProperties(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JComponent.setUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JPanel.setUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JPanel.updateUI(Unknown Source) ~[?:1.8.0_05]
+	at kg.apc.jmeter.graphs.GraphPanel.updateGui(GraphPanel.java:116) ~[JMeterPlugins-Extras.jar:?]
+	at kg.apc.jmeter.graphs.AbstractGraphPanelVisualizer.updateGui(AbstractGraphPanelVisualizer.java:229) ~[JMeterPlugins-Extras.jar:?]
+	at kg.apc.jmeter.graphs.AbstractGraphPanelVisualizer.updateGui(AbstractGraphPanelVisualizer.java:218) ~[JMeterPlugins-Extras.jar:?]
+	at kg.apc.jmeter.vizualizers.ThreadsStateOverTimeGui.add(ThreadsStateOverTimeGui.java:131) ~[JMeterPlugins-Standard.jar:?]
+	at org.apache.jmeter.reporters.ResultCollector.sendToVisualizer(ResultCollector.java:575) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.reporters.ResultCollector.sampleOccurred(ResultCollector.java:551) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.ListenerNotifier.notifyListeners(ListenerNotifier.java:65) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.notifyListeners(JMeterThread.java:885) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:521) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:425) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:254) [ApacheJMeter_core.jar:3.2 r1790748]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_05]
+2017-07-26 15:49:59,255 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: null
+2017-07-26 15:50:04,915 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: null
+2017-07-26 15:50:06,630 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: null
+2017-07-26 15:50:07,106 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: null
+2017-07-26 15:50:10,615 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: null
+2017-07-26 15:50:11,211 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: null
+2017-07-26 15:52:56,314 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: Use bracket notion ['my prop'] if your property contains blank characters. position: 2
+2017-07-26 15:52:57,814 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: Use bracket notion ['my prop'] if your property contains blank characters. position: 2
+2017-07-26 15:53:03,127 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: Use bracket notion ['my prop'] if your property contains blank characters. position: 2
+2017-07-26 15:53:05,590 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: Use bracket notion ['my prop'] if your property contains blank characters. position: 2
+2017-07-26 15:53:07,527 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: Use bracket notion ['my prop'] if your property contains blank characters. position: 2
+2017-07-26 15:53:09,814 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: Use bracket notion ['my prop'] if your property contains blank characters. position: 2
+2017-07-26 15:53:11,896 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: Use bracket notion ['my prop'] if your property contains blank characters. position: 2
+2017-07-26 15:53:12,091 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: Use bracket notion ['my prop'] if your property contains blank characters. position: 2
+2017-07-26 15:53:14,509 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: Use bracket notion ['my prop'] if your property contains blank characters. position: 2
+2017-07-26 15:53:16,917 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: Use bracket notion ['my prop'] if your property contains blank characters. position: 2
+2017-07-26 15:53:20,190 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: Use bracket notion ['my prop'] if your property contains blank characters. position: 2
+2017-07-26 15:53:20,398 ERROR o.a.j.e.j.j.JSONPostProcessor: Error processing JSON content in JSON Extractor, message: Use bracket notion ['my prop'] if your property contains blank characters. position: 2
+2017-07-26 15:53:21,612 ERROR o.a.j.t.ListenerNotifier: Detected problem in Listener.
+java.lang.NullPointerException: null
+	at javax.swing.plaf.synth.SynthPanelUI.uninstallDefaults(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.plaf.basic.BasicPanelUI.uninstallUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.plaf.synth.SynthPanelUI.uninstallUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JComponent.uninstallUIAndProperties(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JComponent.setUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JPanel.setUI(Unknown Source) ~[?:1.8.0_05]
+	at javax.swing.JPanel.updateUI(Unknown Source) ~[?:1.8.0_05]
+	at kg.apc.jmeter.graphs.GraphPanel.updateGui(GraphPanel.java:116) ~[JMeterPlugins-Extras.jar:?]
+	at kg.apc.jmeter.graphs.AbstractGraphPanelVisualizer.updateGui(AbstractGraphPanelVisualizer.java:229) ~[JMeterPlugins-Extras.jar:?]
+	at kg.apc.jmeter.graphs.AbstractGraphPanelVisualizer.updateGui(AbstractGraphPanelVisualizer.java:218) ~[JMeterPlugins-Extras.jar:?]
+	at kg.apc.jmeter.vizualizers.ThreadsStateOverTimeGui.add(ThreadsStateOverTimeGui.java:131) ~[JMeterPlugins-Standard.jar:?]
+	at org.apache.jmeter.reporters.ResultCollector.sendToVisualizer(ResultCollector.java:575) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.reporters.ResultCollector.sampleOccurred(ResultCollector.java:551) ~[ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.ListenerNotifier.notifyListeners(ListenerNotifier.java:65) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.notifyListeners(JMeterThread.java:885) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.executeSamplePackage(JMeterThread.java:521) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.processSampler(JMeterThread.java:425) [ApacheJMeter_core.jar:3.2 r1790748]
+	at org.apache.jmeter.threads.JMeterThread.run(JMeterThread.java:254) [ApacheJMeter_core.jar:3.2 r1790748]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_05]
